@@ -18,14 +18,14 @@ h2 {
   font-size: 3.2em;
 }
 
-pl,i {
+p{
   font-size: 1.7em;
 }
 
 /* header and footer */
 header, footer {
-  background-colour: #7cb342;
-  height: 10em
+  background-color: #7cb342;
+  height: 10em;
   padding: 2em;
 }
 
@@ -35,7 +35,7 @@ h1, footer p {
 }
 
 footer li {
-  float: left
+  float: left;
   list-style-type: none;
   padding:0.5em;
 }
@@ -59,6 +59,6 @@ main p, main li {
 }
 
 img {
-  float: left
+  float: left;
   margin: 1.2em 2em;
 }
